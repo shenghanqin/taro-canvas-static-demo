@@ -1,0 +1,1 @@
+# taro-canvas-static-demo
